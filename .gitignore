@@ -1,0 +1,8 @@
+application_data/
+archive/
+data/
+data old/
+venv/
+archive.zip
+siamese_model.h5
+siamesemodel2.h5
